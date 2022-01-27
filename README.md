@@ -1,4 +1,9 @@
-# R-MARKET_Dependencies
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+
+[![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/R-MARKET_Dependencies.svg)](https://github.com/DataCloud-project/R-MARKET_Dependencies/issues)
+
+# R-MARKET: Dependencies
+
 This component is a dependency of both [R-MARKET_Scheduler](https://github.com/DataCloud-project/R-MARKET_Scheduler) and [R-MARKET_Worker](https://github.com/DataCloud-project/R-MARKET_Worker). The R-MARKET_Dependencies is an essential component and along with R-MARKET Worker and R-MARKET Scheduler, it creates the middleware for R-MARKET tool. R-MARKET_Dependencies is developed based on the [iexec-common](https://github.com/iExecBlockchainComputing/iexec-common).
 
 ## Steps to genreate Java Wrappers for Smart Contacts
